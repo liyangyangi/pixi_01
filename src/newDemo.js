@@ -21,9 +21,7 @@ class newDemo {
   }
   
   load(){
-    console.log(this.resource)
-    PIXI.loader.add(this.resource)
-    .on('progress',)
+    
   }
 
 }
